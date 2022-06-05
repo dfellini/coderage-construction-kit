@@ -1,46 +1,11 @@
-# Next.js example
+# CodeRage Construction Kit
 
-## How to use
+## A starting point for your Next.js / Material UI (MUI) app
 
-Download the example [or clone the repo](https://github.com/mui/material-ui):
+For more info, hit up [CodeRage.io](https://www.codrage.io).
 
-<!-- #default-branch-switch -->
+Clone this repo to your machine and run `npm install` to install the dependencies. To run the app in dev mmode, run `npm run dev`. To build it, run `npm run build`. And to start the app, run `npm run start`.
 
-```sh
-curl https://codeload.github.com/mui/material-ui/tar.gz/master | tar -xz --strip=2  material-ui-master/examples/nextjs
-cd nextjs
-```
+I highly recommend [PM2](https://pm2.keymetrics.io/) to run your app in production. It kinda rocks. I use it in production and so should you. Maybe. If you want.
 
-Install it and run:
-
-```sh
-npm install
-npm run dev
-```
-
-or:
-
-<!-- #default-branch-switch -->
-
-[![Edit on StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/mui/material-ui/tree/master/examples/nextjs)
-
-[![Edit on CodeSandbox](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/mui/material-ui/tree/master/examples/nextjs)
-
-## The idea behind the example
-
-The project uses [Next.js](https://github.com/vercel/next.js), which is a framework for server-rendered React apps.
-It includes `@mui/material` and its peer dependencies, including `emotion`, the default style engine in MUI v5.
-If you prefer, you can [use styled-components instead](https://mui.com/material-ui/guides/interoperability/#styled-components).
-
-## The link component
-
-Next.js has [a custom Link component](https://nextjs.org/docs/api-reference/next/link).
-The example folder provides adapters for usage with MUI.
-More information [in the documentation](https://mui.com/material-ui/guides/routing/#next-js).
-
-## What's next?
-
-<!-- #default-branch-switch -->
-
-You now have a working example project.
-You can head back to the documentation, continuing browsing it from the [templates](https://mui.com/material-ui/getting-started/templates/) section.
+This project is based entirely on the [Next.js example](https://github.com/mui/material-ui/tree/master/examples/nextjs) by [siriwatknp](https://github.com/siriwatknp). [Clone that example](https://github.com/mui/material-ui) if you like.
