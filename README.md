@@ -8,4 +8,4 @@ Clone this repo to your machine and run `npm install` to install the dependencie
 
 I highly recommend [PM2](https://pm2.keymetrics.io/) to run your app in production. It kinda rocks. I use it in production and so should you. Maybe. If you want.
 
-This project is based entirely on the [Next.js example](https://github.com/mui/material-ui/tree/master/examples/nextjs) by [siriwatknp](https://github.com/siriwatknp). [Clone that example](https://github.com/mui/material-ui) if you like.
+This project is based entirely on the [Next.js example](https://github.com/mui/material-ui/tree/master/examples/nextjs) by [siriwatknp](https://github.com/siriwatknp). Clone a [bunch of examples here](https://github.com/mui/material-ui) if you like.
